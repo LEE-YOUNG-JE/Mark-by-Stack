@@ -43,3 +43,7 @@ element* infix_to_postfix (char exp[]);
 
 int main(void)
 - 중위 표기식을 사용자로부터 입력받고 그 식이 후위 표기식으로 어떻게 바뀌는지 출력해주고 계산까지 해주는 함수이다.
+
+# 결과화면
+![image](https://user-images.githubusercontent.com/76897007/141433037-bed2a021-0e93-422f-9be9-5c70d0561999.png)
+![image](https://user-images.githubusercontent.com/76897007/141433054-c123ae81-6902-4922-ba52-e3a94852aff7.png)
